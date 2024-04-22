@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: c1b71274b6f9cf0468790f6a932b4c00
+  productGUID: d0a7ab9179c9a8a448498f76cfb80846
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Pixel Coloring
+  productName: Pixel Coloring v1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -715,16 +715,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Pixel Coloring
-  metroPackageVersion: 
+  metroPackageName: PixelColoringv1
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Pixel Coloring
+  metroApplicationDescription: Pixel Coloring v1
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Pixel Coloring v1
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -790,10 +790,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d17f2b99-8ac2-4dcf-90a6-1bb5ae0d91a5
+  cloudProjectId: ad0a3a89-3aec-4de5-a5fd-6de1bc2c3291
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Pixel Coloring
+  projectName: Pixel Coloring v1
   organizationId: rustam_17
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
